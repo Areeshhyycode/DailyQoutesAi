@@ -31,5 +31,16 @@
     "antonym": "Enthusiasm, Excitement, Energetic",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 4,
+    "date": "2026-04-04",
+    "word": "Malleable",
+    "meaning": "Capable of being shaped or changed",
+    "sentence": "The artist worked with malleable clay to create a beautiful sculpture",
+    "synonym": "flexible, adaptable, pliable",
+    "antonym": "rigid, inflexible, unyielding",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
