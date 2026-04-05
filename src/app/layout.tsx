@@ -39,7 +39,6 @@ export default function RootLayout({
         {/* Footer */}
         <footer className="border-t border-slate-800 mt-16">
           <div className="max-w-5xl mx-auto px-4 py-6 text-center text-slate-500 text-sm">
-            Built with AI — A new word every day
           </div>
         </footer>
       </body>
