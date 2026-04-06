@@ -53,5 +53,16 @@
     "antonym": "Careless, Negligent, Sloppy",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 6,
+    "date": "2026-04-06",
+    "word": "Exacerbate",
+    "meaning": "To make a problem or situation worse",
+    "sentence": "The lack of funding will exacerbate the company's financial difficulties",
+    "synonym": "Aggravate, Intensify, Worsen",
+    "antonym": "Alleviate, Mitigate, Improve",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
