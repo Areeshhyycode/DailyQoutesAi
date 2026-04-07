@@ -86,5 +86,16 @@
     "antonym": "Laconic",
     "category": "Adjective",
     "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "date": "2026-04-07",
+    "word": "Deleterious",
+    "meaning": "Harmful or causing damage",
+    "sentence": "The company's deleterious effect on the environment led to a significant decrease in public support",
+    "synonym": "Destructive, Damaging, Hurtful",
+    "antonym": "Beneficial, Helpful, Advantageous",
+    "category": "Adjective",
+    "difficulty": "Advanced"
   }
 ]
