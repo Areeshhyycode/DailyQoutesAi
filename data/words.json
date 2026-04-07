@@ -64,5 +64,16 @@
     "antonym": "Alleviate, Mitigate, Improve",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 7,
+    "date": "2026-04-07",
+    "word": "Rigor",
+    "meaning": "A condition of being thorough and exhaustive in a process or system",
+    "sentence": "The new quality control process added a level of rigor to the company's manufacturing procedures",
+    "synonym": "thoroughness, strictness, meticulousness",
+    "antonym": "laxity, leniency, carelessness",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
