@@ -108,5 +108,16 @@
     "antonym": "Permanent, Enduring, Lasting",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 11,
+    "date": "2026-04-09",
+    "word": "Cacophony",
+    "meaning": "A harsh, noisy mixture of sounds",
+    "sentence": "The city street was filled with a cacophony of car horns, sirens, and construction noise",
+    "synonym": "Din, Clamor, Ruckus",
+    "antonym": "Silence, Harmony, Melody",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
