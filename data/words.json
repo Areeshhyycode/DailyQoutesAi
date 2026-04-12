@@ -152,5 +152,16 @@
     "antonym": "Careless, Negligent, Oblivious",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 15,
+    "date": "2026-04-12",
+    "word": "Diligent",
+    "meaning": "Showing careful and consistent effort",
+    "sentence": "The diligent student spent hours studying for the exam and achieved excellent results",
+    "synonym": "Hardworking, Conscientious, Industrious",
+    "antonym": "Lazy, Apathetic, Indolent",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
