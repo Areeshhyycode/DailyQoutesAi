@@ -163,5 +163,16 @@
     "antonym": "Lazy, Apathetic, Indolent",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 16,
+    "date": "2026-04-13",
+    "word": "Pragmatic",
+    "meaning": "Dealing with things in a practical and sensible way",
+    "sentence": "The company's pragmatic approach to problem-solving helped them to stay ahead of their competitors",
+    "synonym": "Practical, Realistic, Sensible",
+    "antonym": "Impractical, Idealistic, Theoretical",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
