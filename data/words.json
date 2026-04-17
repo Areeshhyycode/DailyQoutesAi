@@ -207,5 +207,16 @@
     "antonym": "Hinder, Obstruct, Complicate",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 20,
+    "date": "2026-04-17",
+    "word": "Assiduous",
+    "meaning": "Showing great care and diligence in one's work or duties",
+    "sentence": "The assiduous researcher spent countless hours in the lab to ensure the accuracy of her findings",
+    "synonym": "Industrious, Conscientious, Sedulous",
+    "antonym": "Careless, Lazy, Negligent",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
