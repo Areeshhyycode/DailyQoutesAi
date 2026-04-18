@@ -218,5 +218,16 @@
     "antonym": "Careless, Lazy, Negligent",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 21,
+    "date": "2026-04-18",
+    "word": "Sagacious",
+    "meaning": "Having keen discernment and good judgment",
+    "sentence": "The sagacious investor made a fortune by predicting the market trends",
+    "synonym": "Astute, Discerning, Perceptive",
+    "antonym": "Naive, Impulsive, Foolish",
+    "category": "Adjective",
+    "difficulty": "Advanced"
   }
 ]
