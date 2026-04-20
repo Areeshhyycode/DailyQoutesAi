@@ -240,5 +240,16 @@
     "antonym": "Homogeneous, Uniform, Consistent",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 23,
+    "date": "2026-04-20",
+    "word": "Lucid",
+    "meaning": "Clear and easy to understand",
+    "sentence": "The professor's lucid explanation of the complex concept helped the students grasp it quickly",
+    "synonym": "Clear, Transparent, Coherent",
+    "antonym": "Ambiguous, Obscure, Confusing",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
