@@ -251,5 +251,16 @@
     "antonym": "Ambiguous, Obscure, Confusing",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 24,
+    "date": "2026-04-21",
+    "word": "Inquisitive",
+    "meaning": "Having a curious nature and asking questions",
+    "sentence": "The inquisitive student asked her teacher many questions about the science experiment",
+    "synonym": "Curious, Inquiring, Investigative",
+    "antonym": "Apathetic, Indifferent, Uninterested",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
