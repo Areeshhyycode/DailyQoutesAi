@@ -262,5 +262,16 @@
     "antonym": "Apathetic, Indifferent, Uninterested",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 25,
+    "date": "2026-04-22",
+    "word": "Prolific",
+    "meaning": "Producing a large amount of something",
+    "sentence": "The author was prolific, writing over 20 novels in her lifetime",
+    "synonym": "Productive, fertile, abundant",
+    "antonym": "Barren, unproductive, sterile",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
