@@ -273,5 +273,16 @@
     "antonym": "Barren, unproductive, sterile",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 26,
+    "date": "2026-04-23",
+    "word": "Finesse",
+    "meaning": "Delicacy and subtlety of performance or skill",
+    "sentence": "The pianist played the complex piece with finesse, bringing out the nuances of the music",
+    "synonym": "Refinement, Elegance, Dexterity",
+    "antonym": "Clumsiness, Coarseness, Ineptness",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
