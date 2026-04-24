@@ -284,5 +284,16 @@
     "antonym": "Clumsiness, Coarseness, Ineptness",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 27,
+    "date": "2026-04-24",
+    "word": "Discerning",
+    "meaning": "Having a keen understanding and good judgment",
+    "sentence": "As a discerning reader, she was able to pick out the subtle themes in the novel",
+    "synonym": "Perceptive, Astute, Discriminating",
+    "antonym": "Indiscriminate, Unsophisticated, Unrefined",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
