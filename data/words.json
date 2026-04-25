@@ -295,5 +295,16 @@
     "antonym": "Indiscriminate, Unsophisticated, Unrefined",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 28,
+    "date": "2026-04-25",
+    "word": "Coalesce",
+    "meaning": "To come together and unite into a single entity or group",
+    "sentence": "The different community groups will coalesce to form a stronger, more unified voice for social change",
+    "synonym": "Unite, Merge, Consolidate",
+    "antonym": "Separate, Divide, Fragment",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
