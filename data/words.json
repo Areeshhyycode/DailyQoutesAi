@@ -306,5 +306,16 @@
     "antonym": "Separate, Divide, Fragment",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 29,
+    "date": "2026-04-26",
+    "word": "Venerable",
+    "meaning": "Showing respect because of age, character, or achievements",
+    "sentence": "The venerable professor was given a lifetime achievement award for his contributions to the field",
+    "synonym": "Respected, Revered, Esteemed",
+    "antonym": "Disrespected, Ignored, Disparaged",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
