@@ -317,5 +317,16 @@
     "antonym": "Disrespected, Ignored, Disparaged",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 30,
+    "date": "2026-04-27",
+    "word": "Vacillate",
+    "meaning": "To hesitate or waver in one's decisions or actions",
+    "sentence": "The manager vacillated between two job candidates, unable to make a final decision",
+    "synonym": "Hesitate, Waver, Falter",
+    "antonym": "Decide, Resolve, Commit",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
