@@ -328,5 +328,16 @@
     "antonym": "Decide, Resolve, Commit",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 31,
+    "date": "2026-04-28",
+    "word": "Cacophonous",
+    "meaning": "Having a harsh, unpleasant sound",
+    "sentence": "The cacophonous mixture of car horns and sirens made it hard to concentrate in the city",
+    "synonym": "discordant, strident, jarring",
+    "antonym": "harmonious, melodious, soothing",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
