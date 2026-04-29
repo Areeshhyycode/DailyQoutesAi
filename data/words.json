@@ -339,5 +339,16 @@
     "antonym": "harmonious, melodious, soothing",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 32,
+    "date": "2026-04-29",
+    "word": "Resilience",
+    "meaning": "The ability to withstand or recover quickly from difficult conditions",
+    "sentence": "The team's resilience helped them to bounce back from a tough loss and win the next game",
+    "synonym": "Strength, Fortitude, Tenacity",
+    "antonym": "Fragility, Weakness, Vulnerability",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
