@@ -350,5 +350,16 @@
     "antonym": "Fragility, Weakness, Vulnerability",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 33,
+    "date": "2026-04-30",
+    "word": "Convivial",
+    "meaning": "Friendly and sociable, enjoying the company of others",
+    "sentence": "The convivial atmosphere at the party made it easy to strike up conversations with strangers",
+    "synonym": "Sociable, Affable, Genial",
+    "antonym": "Introverted, Aloof, Unfriendly",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
