@@ -372,5 +372,16 @@
     "antonym": "Inarticulate, Incoherent, Unconvincing",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 35,
+    "date": "2026-05-02",
+    "word": "Cultivate",
+    "meaning": "To promote or develop something, such as a skill or a relationship",
+    "sentence": "She tried to cultivate a positive relationship with her new colleagues by being friendly and approachable",
+    "synonym": "Foster, Nurture, Develop",
+    "antonym": "Neglect, Ignore, Harm",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
