@@ -383,5 +383,16 @@
     "antonym": "Neglect, Ignore, Harm",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 36,
+    "date": "2026-05-03",
+    "word": "Pertinent",
+    "meaning": "Relevant and applicable to a particular situation",
+    "sentence": "The professor emphasized the pertinent information in the textbook that would be covered on the exam",
+    "synonym": "Relevant, Applicable, Useful",
+    "antonym": "Irrelevant, Immaterial, Unrelated",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
