@@ -394,5 +394,16 @@
     "antonym": "Irrelevant, Immaterial, Unrelated",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 37,
+    "date": "2026-05-04",
+    "word": "Simulacrum",
+    "meaning": "A copy or representation of something without the genuine article's substance or authenticity",
+    "sentence": "The amusement park's simulacrum of a medieval castle was impressive, but it lacked the historical significance of the real thing",
+    "synonym": "Imitation, Replica, Counterfeit",
+    "antonym": "Original, Authentic, Genuine",
+    "category": "Noun",
+    "difficulty": "Advanced"
   }
 ]
