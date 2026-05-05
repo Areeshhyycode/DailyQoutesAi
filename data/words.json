@@ -405,5 +405,16 @@
     "antonym": "Original, Authentic, Genuine",
     "category": "Noun",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 38,
+    "date": "2026-05-05",
+    "word": "Sedentary",
+    "meaning": "Spending a lot of time sitting or not being active",
+    "sentence": "A sedentary lifestyle can lead to various health problems, so it's essential to incorporate physical activity into your daily routine",
+    "synonym": "Idle, Inactive, Stationary",
+    "antonym": "Active, Energetic, Dynamic",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
