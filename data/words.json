@@ -416,5 +416,16 @@
     "antonym": "Active, Energetic, Dynamic",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 39,
+    "date": "2026-05-06",
+    "word": "Harmonious",
+    "meaning": "Having a pleasing combination of different things",
+    "sentence": "The team worked together in a harmonious way to complete the project",
+    "synonym": "Concordant, Congenial, Symphonic",
+    "antonym": "Discordant, Dissonant, Inharmonious",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
