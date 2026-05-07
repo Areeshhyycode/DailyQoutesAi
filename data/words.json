@@ -427,5 +427,16 @@
     "antonym": "Discordant, Dissonant, Inharmonious",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 40,
+    "date": "2026-05-07",
+    "word": "Canny",
+    "meaning": "Having a keen sense of judgment or discernment",
+    "sentence": "The canny investor made a fortune by predicting the market trend",
+    "synonym": "Shrewd, Astute, Cunning",
+    "antonym": "Naive, Foolish, Impulsive",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
