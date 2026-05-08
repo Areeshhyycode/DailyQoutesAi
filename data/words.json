@@ -438,5 +438,16 @@
     "antonym": "Naive, Foolish, Impulsive",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 41,
+    "date": "2026-05-08",
+    "word": "Vivacious",
+    "meaning": "Full of energy and life",
+    "sentence": "The vivacious personality of the lead singer made the concert extremely entertaining",
+    "synonym": "Lively, Vibrant, Dynamic",
+    "antonym": "Dull, Lifeless, Unenthusiastic",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
