@@ -449,5 +449,16 @@
     "antonym": "Dull, Lifeless, Unenthusiastic",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 42,
+    "date": "2026-05-09",
+    "word": "Affinity",
+    "meaning": "A natural connection or liking for something",
+    "sentence": "She has a strong affinity for music and plays the guitar in her free time",
+    "synonym": "inclination, fondness, preference",
+    "antonym": "aversion, dislike, indifference",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
