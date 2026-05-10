@@ -460,5 +460,16 @@
     "antonym": "aversion, dislike, indifference",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 43,
+    "date": "2026-05-10",
+    "word": "Proclivity",
+    "meaning": "A natural or habitual tendency or inclination",
+    "sentence": "She had a proclivity for art and spent most of her free time painting",
+    "synonym": "inclination, predisposition, propensity",
+    "antonym": "aversion, dislike, repugnance",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
