@@ -471,5 +471,16 @@
     "antonym": "aversion, dislike, repugnance",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 44,
+    "date": "2026-05-11",
+    "word": "Dexterity",
+    "meaning": "The ability to perform tasks skillfully and efficiently with one's hands",
+    "sentence": "The surgeon's dexterity allowed her to complete the delicate operation with ease",
+    "synonym": "agility, adeptness, proficiency",
+    "antonym": "clumsiness, ineptness, awkwardness",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
