@@ -482,5 +482,16 @@
     "antonym": "clumsiness, ineptness, awkwardness",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 45,
+    "date": "2026-05-12",
+    "word": "Perfidious",
+    "meaning": "Disloyal or treacherous",
+    "sentence": "The company's perfidious actions towards its employees led to a major scandal",
+    "synonym": "treacherous, disloyal, deceitful",
+    "antonym": "loyal, faithful, trustworthy",
+    "category": "Adjective",
+    "difficulty": "Advanced"
   }
 ]
