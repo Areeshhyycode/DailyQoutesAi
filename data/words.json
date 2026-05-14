@@ -504,5 +504,16 @@
     "antonym": "Stagnate, Imitate, Replicate",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 47,
+    "date": "2026-05-14",
+    "word": "Effervescent",
+    "meaning": "Bubbly or lively in personality or character",
+    "sentence": "Her effervescent personality made her a joy to be around at social gatherings",
+    "synonym": "Vivacious, lively, spirited",
+    "antonym": "Sluggish, dull, lifeless",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
