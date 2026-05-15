@@ -515,5 +515,16 @@
     "antonym": "Sluggish, dull, lifeless",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 48,
+    "date": "2026-05-15",
+    "word": "Permeate",
+    "meaning": "To spread or flow throughout something",
+    "sentence": "The new policy will permeate every level of the organization, bringing about significant changes",
+    "synonym": "penetrate, saturate, diffuse",
+    "antonym": "isolate, confine, restrict",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
