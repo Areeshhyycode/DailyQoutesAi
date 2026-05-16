@@ -526,5 +526,16 @@
     "antonym": "isolate, confine, restrict",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 49,
+    "date": "2026-05-16",
+    "word": "Defenestration",
+    "meaning": "The act of throwing someone or something out of a window",
+    "sentence": "The crowd's anger led to the defenestration of the corrupt politician's effigy",
+    "synonym": "ejection, expulsion, dismissal",
+    "antonym": "installation, inclusion, acceptance",
+    "category": "Noun",
+    "difficulty": "Advanced"
   }
 ]
