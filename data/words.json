@@ -537,5 +537,16 @@
     "antonym": "installation, inclusion, acceptance",
     "category": "Noun",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 50,
+    "date": "2026-05-17",
+    "word": "Catharsis",
+    "meaning": "The process of releasing and purging strong emotions",
+    "sentence": "The movie provided a catharsis for the audience, allowing them to process their grief and sadness",
+    "synonym": "purification, cleansing, purging",
+    "antonym": "suppression, repression, restraint",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
