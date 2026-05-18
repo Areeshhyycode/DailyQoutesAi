@@ -548,5 +548,16 @@
     "antonym": "suppression, repression, restraint",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 51,
+    "date": "2026-05-18",
+    "word": "Thorough",
+    "meaning": "Complete and detailed in all aspects",
+    "sentence": "The detective conducted a thorough investigation of the crime scene to gather all the evidence",
+    "synonym": "Comprehensive, Exhaustive, Meticulous",
+    "antonym": "Superficial, Partial, Incomplete",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
