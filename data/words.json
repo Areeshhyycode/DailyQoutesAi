@@ -559,5 +559,16 @@
     "antonym": "Superficial, Partial, Incomplete",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 52,
+    "date": "2026-05-19",
+    "word": "Intricate",
+    "meaning": "Complex or detailed in a way that is hard to understand or deal with",
+    "sentence": "The intricate plot of the novel required close attention from the reader to follow the story",
+    "synonym": "Complex, Complicated, Involved",
+    "antonym": "Simple, Straightforward, Obvious",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
