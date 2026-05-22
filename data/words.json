@@ -592,5 +592,16 @@
     "antonym": "Gaunt, Emaciated, Thin",
     "category": "Adjective",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 55,
+    "date": "2026-05-22",
+    "word": "Ebullient",
+    "meaning": "Full of energy and enthusiasm",
+    "sentence": "The ebullient crowd cheered as the concert began, creating an electric atmosphere",
+    "synonym": "Vibrant, Exuberant, Radiant",
+    "antonym": "Apathetic, Sluggish, Lethargic",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
