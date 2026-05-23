@@ -603,5 +603,16 @@
     "antonym": "Apathetic, Sluggish, Lethargic",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 56,
+    "date": "2026-05-23",
+    "word": "Lassitude",
+    "meaning": "A feeling of weariness or lack of energy",
+    "sentence": "After a long, tiring journey, she felt overwhelmed with lassitude and just wanted to sleep",
+    "synonym": "Fatigue, Lethargy, Apathy",
+    "antonym": "Vitality, Vigor, Energization",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
