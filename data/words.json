@@ -614,5 +614,16 @@
     "antonym": "Vitality, Vigor, Energization",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 57,
+    "date": "2026-05-24",
+    "word": "Kairos",
+    "meaning": "The opportune or timely moment to take action",
+    "sentence": "The company seized the kairos to launch their new product, capitalizing on the current market trend",
+    "synonym": "opportunity, moment, occasion",
+    "antonym": "obstacle, hindrance, delay",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
