@@ -636,5 +636,16 @@
     "antonym": "mediocrity, failure, disappointment",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 59,
+    "date": "2026-05-26",
+    "word": "Reclusive",
+    "meaning": "Preferring to be alone or avoiding social contact",
+    "sentence": "The famous author was quite reclusive and rarely gave interviews",
+    "synonym": "Introverted, Solitary, Isolated",
+    "antonym": "Outgoing, Sociable, Gregarious",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
