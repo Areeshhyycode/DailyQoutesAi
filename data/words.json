@@ -647,5 +647,16 @@
     "antonym": "Outgoing, Sociable, Gregarious",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 60,
+    "date": "2026-05-27",
+    "word": "Cosmopolitan",
+    "meaning": "Having an international or global nature, or being open to different cultures",
+    "sentence": "The city's cosmopolitan atmosphere made it a popular destination for tourists and business travelers alike",
+    "synonym": "global, multicultural, diverse",
+    "antonym": "parochial, insular, provincial",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
