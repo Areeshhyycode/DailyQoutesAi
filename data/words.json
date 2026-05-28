@@ -658,5 +658,16 @@
     "antonym": "parochial, insular, provincial",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 61,
+    "date": "2026-05-28",
+    "word": "Mitigate",
+    "meaning": "To reduce the severity or impact of something",
+    "sentence": "The company took steps to mitigate the effects of the economic downturn on their employees",
+    "synonym": "Alleviate, Ameliorate, Minimize",
+    "antonym": "Exacerbate, Aggravate, Intensify",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
