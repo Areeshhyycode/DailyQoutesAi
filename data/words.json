@@ -669,5 +669,16 @@
     "antonym": "Exacerbate, Aggravate, Intensify",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 62,
+    "date": "2026-05-29",
+    "word": "Dissemble",
+    "meaning": "To hide or conceal one's true feelings or intentions",
+    "sentence": "The politician tried to dissemble her embarrassment during the press conference",
+    "synonym": "Conceal, Deceive, Mislead",
+    "antonym": "Reveal, Disclose, Expose",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
