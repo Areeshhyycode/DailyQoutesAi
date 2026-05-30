@@ -680,5 +680,16 @@
     "antonym": "Reveal, Disclose, Expose",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 63,
+    "date": "2026-05-30",
+    "word": "Adroitness",
+    "meaning": "Skill or cleverness in doing something",
+    "sentence": "The chef's adroitness in preparing complex dishes was impressive",
+    "synonym": "dexterity, agility, cleverness",
+    "antonym": "clumsiness, ineptness, awkwardness",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
