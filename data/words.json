@@ -691,5 +691,16 @@
     "antonym": "clumsiness, ineptness, awkwardness",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 64,
+    "date": "2026-05-31",
+    "word": "Luminary",
+    "meaning": "A person who inspires and influences others with their ideas and expertise",
+    "sentence": "The renowned scientist was a luminary in her field, known for her groundbreaking research and insightful lectures",
+    "synonym": "Visionary, Expert, Authority",
+    "antonym": "Novice, Amateur, Dilettante",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
