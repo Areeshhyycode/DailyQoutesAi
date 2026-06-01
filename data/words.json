@@ -702,5 +702,16 @@
     "antonym": "Novice, Amateur, Dilettante",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 65,
+    "date": "2026-06-01",
+    "word": "Profound",
+    "meaning": "Having a great depth of insight or understanding",
+    "sentence": "The professor's profound explanation of the complex theory helped the students understand it better",
+    "synonym": "Intelligent, Insightful, Astute",
+    "antonym": "Shallow, Superficial, Frivolous",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
