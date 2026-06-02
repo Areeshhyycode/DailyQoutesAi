@@ -713,5 +713,16 @@
     "antonym": "Shallow, Superficial, Frivolous",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 66,
+    "date": "2026-06-02",
+    "word": "Luminous",
+    "meaning": "Giving off light, typically in the form of rays or a glow",
+    "sentence": "The city's luminous skyscrapers were a sight to behold at night",
+    "synonym": "Radiant, Glowing, Resplendent",
+    "antonym": "Dim, Dark, Obscure",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
