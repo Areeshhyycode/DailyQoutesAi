@@ -724,5 +724,16 @@
     "antonym": "Dim, Dark, Obscure",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 67,
+    "date": "2026-06-03",
+    "word": "Synchrony",
+    "meaning": "The state of being in harmony or coordination with something else",
+    "sentence": "The team worked in synchrony to complete the project on time",
+    "synonym": "coordination, harmony, unity",
+    "antonym": "discord, disharmony, chaos",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
