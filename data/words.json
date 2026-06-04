@@ -735,5 +735,16 @@
     "antonym": "discord, disharmony, chaos",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 68,
+    "date": "2026-06-04",
+    "word": "Sagacity",
+    "meaning": "The quality of being wise and having good judgment",
+    "sentence": "Her sagacity in handling the crisis earned her a lot of respect from her colleagues",
+    "synonym": "Wisdom, Prudence, Acumen",
+    "antonym": "Foolishness, Naivety, Impulsiveness",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
