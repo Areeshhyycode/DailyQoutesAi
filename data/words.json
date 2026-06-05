@@ -746,5 +746,16 @@
     "antonym": "Foolishness, Naivety, Impulsiveness",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 69,
+    "date": "2026-06-05",
+    "word": "Abstruse",
+    "meaning": "Difficult to understand, obscure",
+    "sentence": "The professor's abstruse explanation of the complex theory left many students confused",
+    "synonym": "Obscure, arcane, esoteric",
+    "antonym": "Clear, straightforward, obvious",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
