@@ -757,5 +757,16 @@
     "antonym": "Clear, straightforward, obvious",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 70,
+    "date": "2026-06-06",
+    "word": "Axiomatic",
+    "meaning": "Something that is obviously true and does not need to be proved",
+    "sentence": "It is axiomatic that a company's success depends on its ability to innovate and adapt to changing market conditions",
+    "synonym": "Self-evident, obvious, indisputable",
+    "antonym": "Debatable, uncertain, questionable",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
