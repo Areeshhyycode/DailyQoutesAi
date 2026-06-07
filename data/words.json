@@ -768,5 +768,16 @@
     "antonym": "Debatable, uncertain, questionable",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 71,
+    "date": "2026-06-07",
+    "word": "Empathy",
+    "meaning": "The ability to understand and share the feelings of another person",
+    "sentence": "The counselor's empathy helped her connect with her clients on a deeper level",
+    "synonym": "compassion, sympathy, understanding",
+    "antonym": "apathy, indifference, callousness",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
