@@ -779,5 +779,16 @@
     "antonym": "apathy, indifference, callousness",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 72,
+    "date": "2026-06-08",
+    "word": "Galvanize",
+    "meaning": "To shock or excite someone into action",
+    "sentence": "The company's new mission statement helped to galvanize the employees and increase productivity",
+    "synonym": "Motivate, Inspire, Stimulate",
+    "antonym": "Demotivate, Discourage, Stifle",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
