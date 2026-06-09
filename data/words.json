@@ -790,5 +790,16 @@
     "antonym": "Demotivate, Discourage, Stifle",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 73,
+    "date": "2026-06-09",
+    "word": "Lethargic",
+    "meaning": "Feeling or showing a lack of energy or enthusiasm",
+    "sentence": "After a big meal, I felt lethargic and needed a nap",
+    "synonym": "Sluggish, Indolent, Torpid",
+    "antonym": "Energetic, Active, Vigorous",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
