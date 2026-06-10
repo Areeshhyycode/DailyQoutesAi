@@ -801,5 +801,16 @@
     "antonym": "Energetic, Active, Vigorous",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 74,
+    "date": "2026-06-10",
+    "word": "Tessellate",
+    "meaning": "To cover a surface with small, repeated shapes that fit together without overlapping",
+    "sentence": "The artist's mosaic design began to tessellate as she added more and more small tiles to the wall",
+    "synonym": "Pattern, Mosaic, Interlock",
+    "antonym": "Disjoint, Separate, Fragment",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
