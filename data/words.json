@@ -812,5 +812,16 @@
     "antonym": "Disjoint, Separate, Fragment",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 75,
+    "date": "2026-06-11",
+    "word": "Profoundly",
+    "meaning": "Very deeply or strongly felt",
+    "sentence": "The music affected her profoundly and changed her perspective on life",
+    "synonym": "Deeply, Strongly, Intensely",
+    "antonym": "Slightly, Mildly, Superficially",
+    "category": "Adverb",
+    "difficulty": "Intermediate"
   }
 ]
