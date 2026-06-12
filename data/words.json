@@ -823,5 +823,16 @@
     "antonym": "Slightly, Mildly, Superficially",
     "category": "Adverb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 76,
+    "date": "2026-06-12",
+    "word": "Verbiage",
+    "meaning": "Language or wording used to convey a meaning",
+    "sentence": "The contract was filled with complex verbiage that made it difficult to understand",
+    "synonym": "jargon, terminology, language",
+    "antonym": "silence, quiet, clarity",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
