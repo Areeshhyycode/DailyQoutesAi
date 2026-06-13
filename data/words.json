@@ -834,5 +834,16 @@
     "antonym": "silence, quiet, clarity",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 77,
+    "date": "2026-06-13",
+    "word": "Cerebral",
+    "meaning": "Relating to the brain or intellect",
+    "sentence": "The professor's cerebral approach to problem-solving made her a renowned expert in the field",
+    "synonym": "Intellectual, Mental, Academic",
+    "antonym": "Physical, Emotional, Instinctive",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
