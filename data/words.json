@@ -845,5 +845,16 @@
     "antonym": "Physical, Emotional, Instinctive",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 78,
+    "date": "2026-06-14",
+    "word": "Axiom",
+    "meaning": "A statement or idea that is widely accepted as true",
+    "sentence": "The company's founder believed that customer satisfaction was an axiom that guided all business decisions",
+    "synonym": "Principle, Tenet, Doctrine",
+    "antonym": "Fallacy, Myth, Misconception",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
