@@ -856,5 +856,16 @@
     "antonym": "Fallacy, Myth, Misconception",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 79,
+    "date": "2026-06-15",
+    "word": "Tenacious",
+    "meaning": "Holding firmly to a goal or objective",
+    "sentence": "The tenacious entrepreneur worked tirelessly to turn her idea into a successful business",
+    "synonym": "Persistent, Determined, Unyielding",
+    "antonym": "Weak, Indecisive, Apathetic",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
