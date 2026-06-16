@@ -867,5 +867,16 @@
     "antonym": "Weak, Indecisive, Apathetic",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 80,
+    "date": "2026-06-16",
+    "word": "Voluble",
+    "meaning": "Talking or speaking a lot, often about things that are not important",
+    "sentence": "The voluble guest dominated the conversation at the dinner party with her endless stories",
+    "synonym": "Talkative, Loquacious, Chatty",
+    "antonym": "Reserved, Taciturn, Reticent",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
