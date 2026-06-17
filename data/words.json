@@ -878,5 +878,16 @@
     "antonym": "Reserved, Taciturn, Reticent",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 81,
+    "date": "2026-06-17",
+    "word": "Dulcet",
+    "meaning": "Having a sweet and soothing sound or quality",
+    "sentence": "The dulcet tones of the singer's voice calmed the audience",
+    "synonym": "melodious, harmonious, soothing",
+    "antonym": "discordant, harsh, jarring",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
