@@ -889,5 +889,16 @@
     "antonym": "discordant, harsh, jarring",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 82,
+    "date": "2026-06-18",
+    "word": "Fluctuation",
+    "meaning": "A change in something's level or amount, often in a regular pattern",
+    "sentence": "The company's stock prices experienced a significant fluctuation over the course of the year",
+    "synonym": "Variation, Oscillation, Deviation",
+    "antonym": "Stability, Consistency, Uniformity",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
