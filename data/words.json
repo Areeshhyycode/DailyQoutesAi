@@ -900,5 +900,16 @@
     "antonym": "Stability, Consistency, Uniformity",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 83,
+    "date": "2026-06-19",
+    "word": "Spectrum",
+    "meaning": "A range of different things, such as colors, sounds, or ideas",
+    "sentence": "The company's product line covers a wide spectrum of consumer needs",
+    "synonym": "range, scope, variety",
+    "antonym": "limit, restriction, uniformity",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
