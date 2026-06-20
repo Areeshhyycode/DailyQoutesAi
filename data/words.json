@@ -911,5 +911,16 @@
     "antonym": "limit, restriction, uniformity",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 84,
+    "date": "2026-06-20",
+    "word": "Symbiosis",
+    "meaning": "A close and often long-term relationship between different species or people that is mutually beneficial",
+    "sentence": "The bee's symbiosis with the flower allowed it to collect nectar while pollinating the plant",
+    "synonym": "Mutualism, Cooperation, Interdependence",
+    "antonym": "Competition, Isolation, Antagonism",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
