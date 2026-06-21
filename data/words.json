@@ -922,5 +922,16 @@
     "antonym": "Competition, Isolation, Antagonism",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 85,
+    "date": "2026-06-21",
+    "word": "Phenomenon",
+    "meaning": "A remarkable or extraordinary event or situation",
+    "sentence": "The scientist studied the phenomenon of the solar eclipse to understand its effects on the environment",
+    "synonym": "occurrence, event, happening",
+    "antonym": "normality, routine, ordinary",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
