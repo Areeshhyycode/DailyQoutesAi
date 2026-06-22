@@ -933,5 +933,16 @@
     "antonym": "normality, routine, ordinary",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 86,
+    "date": "2026-06-22",
+    "word": "Mendicant",
+    "meaning": "A person who asks for or depends on charity",
+    "sentence": "The mendicant stood on the corner, holding a cardboard sign and asking for spare change",
+    "synonym": "Beggar, Vagrant, Panhandler",
+    "antonym": "Philanthropist, Donor, Benefactor",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
