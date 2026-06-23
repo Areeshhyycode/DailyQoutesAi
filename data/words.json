@@ -944,5 +944,16 @@
     "antonym": "Philanthropist, Donor, Benefactor",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 87,
+    "date": "2026-06-23",
+    "word": "Proximity",
+    "meaning": "The state of being near something in terms of physical distance or relationship",
+    "sentence": "The company chose to locate its new office in close proximity to its major clients",
+    "synonym": "nearness, closeness, adjacency",
+    "antonym": "distance, remoteness, isolation",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
