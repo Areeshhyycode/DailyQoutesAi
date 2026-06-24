@@ -955,5 +955,16 @@
     "antonym": "distance, remoteness, isolation",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 88,
+    "date": "2026-06-24",
+    "word": "Rapprochement",
+    "meaning": "The process of establishing or improving relations between two or more countries or groups",
+    "sentence": "After years of conflict, the two nations began a rapprochement, leading to increased trade and cultural exchanges",
+    "synonym": "Reconciliation, Detente, Accord",
+    "antonym": "Confrontation, Estrangement, Hostility",
+    "category": "Noun",
+    "difficulty": "Advanced"
   }
 ]
