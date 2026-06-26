@@ -966,5 +966,16 @@
     "antonym": "Confrontation, Estrangement, Hostility",
     "category": "Noun",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 89,
+    "date": "2026-06-26",
+    "word": "Ingenious",
+    "meaning": "Having a natural ability to find new and original solutions to problems",
+    "sentence": "The team's engineer came up with an ingenious plan to fix the broken bridge using local materials",
+    "synonym": "Resourceful, Creative, Innovative",
+    "antonym": "Unimaginative, Unoriginal, Uninspired",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
