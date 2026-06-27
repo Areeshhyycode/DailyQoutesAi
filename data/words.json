@@ -977,5 +977,16 @@
     "antonym": "Unimaginative, Unoriginal, Uninspired",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 90,
+    "date": "2026-06-27",
+    "word": "Expedite",
+    "meaning": "To speed up or make a process happen more quickly",
+    "sentence": "The new software will expedite the data analysis process, saving the company time and resources",
+    "synonym": "Accelerate, Hasten, Facilitate",
+    "antonym": "Delay, Impede, Hinder",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
