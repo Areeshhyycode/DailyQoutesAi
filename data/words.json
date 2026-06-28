@@ -988,5 +988,16 @@
     "antonym": "Delay, Impede, Hinder",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 91,
+    "date": "2026-06-28",
+    "word": "Refine",
+    "meaning": "To make something better or more precise",
+    "sentence": "The company will refine its business strategy to stay competitive in the market",
+    "synonym": "Improve, Enhance, Polish",
+    "antonym": "Deteriorate, Worsen, Impair",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
