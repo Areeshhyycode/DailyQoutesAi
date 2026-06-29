@@ -999,5 +999,16 @@
     "antonym": "Deteriorate, Worsen, Impair",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 92,
+    "date": "2026-06-29",
+    "word": "Scintillating",
+    "meaning": "Something that is extremely interesting or attractive because of its intelligence, wit, or originality",
+    "sentence": "The professor's scintillating lecture on quantum physics left the students in awe",
+    "synonym": "Fascinating, Engaging, Captivating",
+    "antonym": "Dull, Uninteresting, Tedious",
+    "category": "Adjective",
+    "difficulty": "Advanced"
   }
 ]
