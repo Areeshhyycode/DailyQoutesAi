@@ -1010,5 +1010,16 @@
     "antonym": "Dull, Uninteresting, Tedious",
     "category": "Adjective",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 93,
+    "date": "2026-06-30",
+    "word": "Cryptic",
+    "meaning": "Difficult to understand or interpret",
+    "sentence": "The professor's cryptic comments left the students confused about the assignment",
+    "synonym": "Ambiguous, Obscure, Abstruse",
+    "antonym": "Clear, Transparent, Explicit",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
