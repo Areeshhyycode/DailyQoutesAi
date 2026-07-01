@@ -1021,5 +1021,16 @@
     "antonym": "Clear, Transparent, Explicit",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 94,
+    "date": "2026-07-01",
+    "word": "Tranquility",
+    "meaning": "A state of peacefulness and calmness",
+    "sentence": "The serene landscape helped her find tranquility after a long and stressful week",
+    "synonym": "Calmness, Serenity, Peacefulness",
+    "antonym": "Turmoil, Chaos, Agitation",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
