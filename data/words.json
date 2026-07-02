@@ -1032,5 +1032,16 @@
     "antonym": "Turmoil, Chaos, Agitation",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 95,
+    "date": "2026-07-02",
+    "word": "Adept",
+    "meaning": "Having a natural ability or skill in something",
+    "sentence": "The engineer was adept at solving complex technical problems",
+    "synonym": "Skilled, Proficient, Expert",
+    "antonym": "Inept, Unskilled, Amateur",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
