@@ -1043,5 +1043,16 @@
     "antonym": "Inept, Unskilled, Amateur",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 96,
+    "date": "2026-07-03",
+    "word": "Concise",
+    "meaning": "Clearly and briefly expressed",
+    "sentence": "The professor appreciated the student's concise answer to the complex question",
+    "synonym": "Terse, Succinct, Brief",
+    "antonym": "Verbose, Rambling, Prolix",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
