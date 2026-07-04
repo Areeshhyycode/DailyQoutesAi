@@ -1054,5 +1054,16 @@
     "antonym": "Verbose, Rambling, Prolix",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 97,
+    "date": "2026-07-04",
+    "word": "Ingenue",
+    "meaning": "A young woman who is innocent and naive",
+    "sentence": "The ingenue played the lead role in the new Broadway musical",
+    "synonym": "debutante, novice, innocent",
+    "antonym": "veteran, expert, cynic",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
