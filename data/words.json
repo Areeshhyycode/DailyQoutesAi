@@ -1065,5 +1065,16 @@
     "antonym": "veteran, expert, cynic",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 98,
+    "date": "2026-07-05",
+    "word": "Credibility",
+    "meaning": "The quality of being believed or trusted",
+    "sentence": "The company's credibility was questioned after the scandal",
+    "synonym": "reliability, trustworthiness, authenticity",
+    "antonym": "doubt, skepticism, unreliability",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
