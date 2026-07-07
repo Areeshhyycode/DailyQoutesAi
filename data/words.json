@@ -1087,5 +1087,16 @@
     "antonym": "Worsen, Deteriorate, Impair",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 100,
+    "date": "2026-07-07",
+    "word": "Auspicious",
+    "meaning": "Giving a sign of future success or good luck",
+    "sentence": "The company's new product launch was on an auspicious day, and it received a great response from the public",
+    "synonym": "Favorable, Propitious, Fortunate",
+    "antonym": "Inauspicious, Unlucky, Unfavorable",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
