@@ -1098,5 +1098,16 @@
     "antonym": "Inauspicious, Unlucky, Unfavorable",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 101,
+    "date": "2026-07-08",
+    "word": "Conundrum",
+    "meaning": "A puzzle or problem that is difficult to solve",
+    "sentence": "The math teacher presented the class with a conundrum that required creative thinking to resolve",
+    "synonym": "Problem, Puzzle, Enigma",
+    "antonym": "Solution, Answer, Clarity",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
