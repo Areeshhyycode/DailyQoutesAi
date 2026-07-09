@@ -1109,5 +1109,16 @@
     "antonym": "Solution, Answer, Clarity",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 102,
+    "date": "2026-07-09",
+    "word": "Lachrymose",
+    "meaning": "Causing or expressing sorrow",
+    "sentence": "The lachrymose melody of the violin filled the room with a sense of sadness",
+    "synonym": "Mournful, Somber, Melancholy",
+    "antonym": "Cheerful, Joyful, Uplifting",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
