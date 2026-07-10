@@ -1120,5 +1120,16 @@
     "antonym": "Cheerful, Joyful, Uplifting",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 103,
+    "date": "2026-07-10",
+    "word": "Vigil",
+    "meaning": "A period of staying awake, especially to watch or wait for something",
+    "sentence": "The family kept a vigil by the bedside of their sick loved one",
+    "synonym": "Watch, Surveillance, Observation",
+    "antonym": "Negligence, Apathy, Indifference",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
