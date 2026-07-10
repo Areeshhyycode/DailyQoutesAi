@@ -1131,5 +1131,16 @@
     "antonym": "Negligence, Apathy, Indifference",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 104,
+    "date": "2026-07-10",
+    "word": "Accretion",
+    "meaning": "The process of growth or increase through the gradual accumulation of additional layers or matter",
+    "sentence": "The accretion of sediment on the ocean floor formed a new landmass over millions of years",
+    "synonym": "accumulation, aggregation, deposition",
+    "antonym": "erosion, reduction, decay",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
