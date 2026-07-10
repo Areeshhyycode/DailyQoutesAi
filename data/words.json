@@ -1142,5 +1142,16 @@
     "antonym": "erosion, reduction, decay",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 105,
+    "date": "2026-07-10",
+    "word": "Solicitous",
+    "meaning": "Showing concern or care for someone or something",
+    "sentence": "The nurse was solicitous of her patient's well-being and made sure to check on her frequently",
+    "synonym": "Considerate, Thoughtful, Attentive",
+    "antonym": "Indifferent, Neglectful, Apathetic",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
