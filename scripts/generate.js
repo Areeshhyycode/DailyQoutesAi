@@ -1,4 +1,10 @@
-require("dotenv").config();
+// dotenv is only needed for local dev (.env). In CI the key comes from
+// GitHub Secrets, so a missing dotenv must never crash the generator.
+try {
+  require("dotenv").config();
+} catch {
+  // dotenv not installed — rely on the ambient environment (e.g. CI secrets)
+}
 const Groq = require("groq-sdk");
 const fs = require("fs");
 const path = require("path");
