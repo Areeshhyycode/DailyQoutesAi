@@ -1153,5 +1153,16 @@
     "antonym": "Indifferent, Neglectful, Apathetic",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 106,
+    "date": "2026-07-11",
+    "word": "Synthesis",
+    "meaning": "The process of combining different things to create something new",
+    "sentence": "The team achieved a synthesis of their ideas, resulting in a innovative solution to the problem",
+    "synonym": "Combination, Integration, Amalgamation",
+    "antonym": "Analysis, Separation, Disintegration",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
