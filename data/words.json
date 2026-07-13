@@ -1164,5 +1164,16 @@
     "antonym": "Analysis, Separation, Disintegration",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 107,
+    "date": "2026-07-13",
+    "word": "Hybridity",
+    "meaning": "The state of being composed of different elements or cultures",
+    "sentence": "The artist's work was praised for its unique hybridity, blending traditional and modern styles",
+    "synonym": "Diversity, Multiplicity, Fusion",
+    "antonym": "Homogeneity, Uniformity, Purity",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
