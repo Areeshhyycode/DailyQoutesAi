@@ -1175,5 +1175,16 @@
     "antonym": "Homogeneity, Uniformity, Purity",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 108,
+    "date": "2026-07-14",
+    "word": "Interplay",
+    "meaning": "The interaction or cooperation between two or more things",
+    "sentence": "The interplay between the characters' personalities drove the plot of the story",
+    "synonym": "Interaction, Cooperation, Collaboration",
+    "antonym": "Isolation, Separation, Conflict",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
