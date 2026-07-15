@@ -1186,5 +1186,16 @@
     "antonym": "Isolation, Separation, Conflict",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 109,
+    "date": "2026-07-15",
+    "word": "Ubiquity",
+    "meaning": "The state of being present or found everywhere at the same time",
+    "sentence": "The company's ubiquity in the market made it a household name",
+    "synonym": "Pervasiveness, Omnipresence, Universality",
+    "antonym": "Rarity, Scarcity, Isolation",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
