@@ -1197,5 +1197,16 @@
     "antonym": "Rarity, Scarcity, Isolation",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 110,
+    "date": "2026-07-16",
+    "word": "Accommodate",
+    "meaning": "To provide something needed or wanted, especially a place to stay or work",
+    "sentence": "The hotel will accommodate all the guests for the conference",
+    "synonym": "Lodge, Shelter, House",
+    "antonym": "Evict, Refuse, Reject",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
