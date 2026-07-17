@@ -1208,5 +1208,16 @@
     "antonym": "Evict, Refuse, Reject",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 111,
+    "date": "2026-07-17",
+    "word": "Accomplishment",
+    "meaning": "Something that is achieved through effort or skill",
+    "sentence": "She felt a great sense of accomplishment after completing her first marathon",
+    "synonym": "Achievement, Success, Triumph",
+    "antonym": "Failure, Defeat, Setback",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
