@@ -1230,5 +1230,16 @@
     "antonym": "Discrepancy, Disparity, Asynchrony",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 113,
+    "date": "2026-07-19",
+    "word": "Relevance",
+    "meaning": "The state of being connected or related to something",
+    "sentence": "The professor emphasized the relevance of the historical event to modern society",
+    "synonym": "Pertinence, Applicability, Importance",
+    "antonym": "Irrelevance, Uselessness, Insignificance",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
