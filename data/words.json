@@ -1241,5 +1241,16 @@
     "antonym": "Irrelevance, Uselessness, Insignificance",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 114,
+    "date": "2026-07-22",
+    "word": "Axiomatize",
+    "meaning": "To establish or declare something as a self-evident truth",
+    "sentence": "The professor attempted to axiomatize the concept of moral responsibility in her lecture",
+    "synonym": "Postulate, Hypothesize, Theorize",
+    "antonym": "Disprove, Refute, Invalidate",
+    "category": "Verb",
+    "difficulty": "Advanced"
   }
 ]
