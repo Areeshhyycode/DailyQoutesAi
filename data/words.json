@@ -1252,5 +1252,16 @@
     "antonym": "Disprove, Refute, Invalidate",
     "category": "Verb",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 115,
+    "date": "2026-07-23",
+    "word": "Tintinnabulation",
+    "meaning": "A ringing or tinkling sound, especially of a bell",
+    "sentence": "The tintinnabulation of the wind chimes created a soothing atmosphere in the garden",
+    "synonym": "chime, clang, peal",
+    "antonym": "silence, quiet, stillness",
+    "category": "Noun",
+    "difficulty": "Advanced"
   }
 ]
