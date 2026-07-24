@@ -1263,5 +1263,16 @@
     "antonym": "silence, quiet, stillness",
     "category": "Noun",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 116,
+    "date": "2026-07-24",
+    "word": "Holistic",
+    "meaning": "Considering the whole system or situation, not just individual parts",
+    "sentence": "The doctor took a holistic approach to treating the patient's illness, looking at diet, exercise, and mental health",
+    "synonym": "Comprehensive, Integrated, Systemic",
+    "antonym": "Narrow, Limited, Fragmented",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
