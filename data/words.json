@@ -1274,5 +1274,16 @@
     "antonym": "Narrow, Limited, Fragmented",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 117,
+    "date": "2026-07-25",
+    "word": "Clemency",
+    "meaning": "The act of showing mercy or forgiveness, especially to someone who has committed a crime",
+    "sentence": "The judge showed clemency to the young offender and gave her a reduced sentence",
+    "synonym": "Mercy, Leniency, Pardon",
+    "antonym": "Severity, Harshness, Cruelty",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
