@@ -1285,5 +1285,16 @@
     "antonym": "Severity, Harshness, Cruelty",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 118,
+    "date": "2026-07-26",
+    "word": "Crepidation",
+    "meaning": "A feeling of fear or anxiety about the future",
+    "sentence": "The economic uncertainty caused a sense of crepidation among investors",
+    "synonym": "Apprehension, Trepidation, Foreboding",
+    "antonym": "Confidence, Optimism, Assurance",
+    "category": "Noun",
+    "difficulty": "Advanced"
   }
 ]
