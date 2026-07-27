@@ -1296,5 +1296,16 @@
     "antonym": "Confidence, Optimism, Assurance",
     "category": "Noun",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 119,
+    "date": "2026-07-27",
+    "word": "Rigorous",
+    "meaning": "Thorough and exhaustive in method or approach",
+    "sentence": "The researcher conducted a rigorous analysis of the data to ensure the accuracy of the results",
+    "synonym": "Meticulous, Systematic, Exhaustive",
+    "antonym": "Careless, Sloppy, Superficial",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
