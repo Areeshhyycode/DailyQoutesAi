@@ -1307,5 +1307,16 @@
     "antonym": "Careless, Sloppy, Superficial",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 120,
+    "date": "2026-07-28",
+    "word": "Odyssey",
+    "meaning": "A long and exciting journey or adventure, often with many challenges and changes",
+    "sentence": "The family's road trip across the country was an unforgettable odyssey, filled with breathtaking scenery and memorable experiences",
+    "synonym": "adventure, journey, quest",
+    "antonym": "stagnation, routine, stability",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
