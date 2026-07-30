@@ -1318,5 +1318,16 @@
     "antonym": "stagnation, routine, stability",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 121,
+    "date": "2026-07-30",
+    "word": "Abyssal",
+    "meaning": "Very deep or seemingly bottomless",
+    "sentence": "The submarine dove into the abyssal depths of the ocean, where the pressure was extreme",
+    "synonym": "profound, deep, bottomless",
+    "antonym": "shallow, superficial, surface-level",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
