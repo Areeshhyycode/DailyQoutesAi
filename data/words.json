@@ -1329,5 +1329,16 @@
     "antonym": "shallow, superficial, surface-level",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 122,
+    "date": "2026-07-31",
+    "word": "Pondus",
+    "meaning": "A feeling of being weighed down, either physically or mentally",
+    "sentence": "After a long, tiring day, the pondus in her legs made it hard to walk home",
+    "synonym": "fatigue, lethargy, heaviness",
+    "antonym": "lightness, energy, vivacity",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
