@@ -1340,5 +1340,16 @@
     "antonym": "lightness, energy, vivacity",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 123,
+    "date": "2026-08-02",
+    "word": "Abridged",
+    "meaning": "Shortened or condensed version of something",
+    "sentence": "The editor worked tirelessly to create an abridged version of the novel that retained the essential plot elements",
+    "synonym": "condensed, shortened, summarized",
+    "antonym": "lengthy, detailed, verbose",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
