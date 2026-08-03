@@ -1351,5 +1351,16 @@
     "antonym": "lengthy, detailed, verbose",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 124,
+    "date": "2026-08-03",
+    "word": "Credulity",
+    "meaning": "A tendency to believe something too easily or too readily",
+    "sentence": "The tourist's credulity led him to fall for the street performer's scam",
+    "synonym": "Gullibility, Naivety, Trustfulness",
+    "antonym": "Skepticism, Mistrust, Distrust",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
