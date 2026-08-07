@@ -1362,5 +1362,16 @@
     "antonym": "Skepticism, Mistrust, Distrust",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 125,
+    "date": "2026-08-07",
+    "word": "Reciprocal",
+    "meaning": "Given or felt in return, especially in a mutual or equivalent way",
+    "sentence": "The two countries have a reciprocal trade agreement, which benefits both nations",
+    "synonym": "Mutual, Equivalent, Corresponding",
+    "antonym": "One-sided, Unilateral, Asymmetrical",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]

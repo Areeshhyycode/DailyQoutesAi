@@ -1,6 +1,9 @@
-node_modules/
-.next/
-*.log
-.vercel
+node_modules/
+
+.next/
+
+*.log
+
+.vercel
+
 config.bat
-.env
