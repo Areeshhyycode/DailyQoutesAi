@@ -1373,5 +1373,16 @@
     "antonym": "One-sided, Unilateral, Asymmetrical",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 126,
+    "date": "2026-08-09",
+    "word": "Cathartic",
+    "meaning": "Providing emotional release or purging",
+    "sentence": "The movie was a cathartic experience, allowing me to process my grief and feel a sense of closure",
+    "synonym": "Therapeutic, Purging, Liberating",
+    "antonym": "Traumatic, Oppressive, Restrictive",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
