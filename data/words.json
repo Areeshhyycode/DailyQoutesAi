@@ -1384,5 +1384,16 @@
     "antonym": "Traumatic, Oppressive, Restrictive",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 127,
+    "date": "2026-08-10",
+    "word": "Liminal",
+    "meaning": "A transitional phase or state",
+    "sentence": "The company is in a liminal period, trying to decide whether to expand or downsize",
+    "synonym": "transitional, intermediate, threshold",
+    "antonym": "stable, permanent, fixed",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
