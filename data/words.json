@@ -1395,5 +1395,16 @@
     "antonym": "stable, permanent, fixed",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 128,
+    "date": "2026-08-11",
+    "word": "Asperity",
+    "meaning": "A quality of being harsh or unpleasant",
+    "sentence": "The asperity of her tone made it clear she was not interested in the proposal",
+    "synonym": "Acerbity, Bitterness, Harshness",
+    "antonym": "Gentleness, Kindness, Mildness",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
