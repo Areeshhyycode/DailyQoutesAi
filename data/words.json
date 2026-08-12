@@ -1406,5 +1406,16 @@
     "antonym": "Gentleness, Kindness, Mildness",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 129,
+    "date": "2026-08-12",
+    "word": "Polyphony",
+    "meaning": "The combination of multiple independent melodies sounding together",
+    "sentence": "The composer's use of polyphony in the choir piece created a rich and layered sound",
+    "synonym": "Harmony, Counterpoint, Multimelody",
+    "antonym": "Monotony, Unison, Homophony",
+    "category": "Noun",
+    "difficulty": "Advanced"
   }
 ]
