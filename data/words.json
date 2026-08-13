@@ -1417,5 +1417,16 @@
     "antonym": "Monotony, Unison, Homophony",
     "category": "Noun",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 130,
+    "date": "2026-08-13",
+    "word": "Auspice",
+    "meaning": "A sign or omen that indicates whether a situation will be favorable or unfavorable",
+    "sentence": "The company's launch under the auspice of a new CEO marked a significant turning point in its history",
+    "synonym": "patronage, sponsorship, backing",
+    "antonym": "hindrance, obstruction, opposition",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
