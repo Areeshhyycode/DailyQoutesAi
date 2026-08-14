@@ -1428,5 +1428,16 @@
     "antonym": "hindrance, obstruction, opposition",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 131,
+    "date": "2026-08-14",
+    "word": "Chronic",
+    "meaning": "Long-lasting or recurring",
+    "sentence": "The patient suffered from chronic pain for several years after the accident",
+    "synonym": "Persistent, Recurring, Enduring",
+    "antonym": "Temporary, Brief, Transient",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
