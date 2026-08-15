@@ -1439,5 +1439,16 @@
     "antonym": "Temporary, Brief, Transient",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 132,
+    "date": "2026-08-15",
+    "word": "Stymie",
+    "meaning": "To hinder or obstruct the progress of something",
+    "sentence": "The lack of funding stymied the development of the new project",
+    "synonym": "obstruct, hinder, impede",
+    "antonym": "facilitate, promote, enhance",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
