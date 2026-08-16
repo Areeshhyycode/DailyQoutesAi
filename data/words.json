@@ -1450,5 +1450,16 @@
     "antonym": "facilitate, promote, enhance",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 133,
+    "date": "2026-08-16",
+    "word": "Credence",
+    "meaning": "Belief or trust in something",
+    "sentence": "The company's financial reports gave credence to the rumors of their success",
+    "synonym": "Faith, Confidence, Belief",
+    "antonym": "Doubt, Skepticism, Disbelief",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
