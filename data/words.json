@@ -1461,5 +1461,16 @@
     "antonym": "Doubt, Skepticism, Disbelief",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 134,
+    "date": "2026-08-17",
+    "word": "Sylvan",
+    "meaning": "Relating to the woods or a wooded area",
+    "sentence": "The sylvan landscape of the national park was breathtaking, with trees stretching as far as the eye could see",
+    "synonym": "woodland, forested, rural",
+    "antonym": "urban, metropolitan, city",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
